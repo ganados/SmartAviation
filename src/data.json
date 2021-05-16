@@ -1,0 +1,37 @@
+[
+  {
+    "flightId": 0,
+    "flightNumber": 9079,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2016-12-15T12:44:10-01:00"
+  },
+  {
+    "flightId": 1,
+    "flightNumber": 8776,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2014-06-03T12:40:19-02:00"
+  },
+  {
+    "flightId": 2,
+    "flightNumber": 3430,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2020-10-04T01:57:09-02:00"
+  },
+  {
+    "flightId": 3,
+    "flightNumber": 7717,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2020-12-22T05:46:57-01:00"
+  },
+  {
+    "flightId": 4,
+    "flightNumber": 6369,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2014-07-14T02:44:27-02:00"
+  }
+]
